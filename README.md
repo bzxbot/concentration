@@ -18,6 +18,9 @@ Author
 -------
 
 Bernardo Botelho
+
 Juliano Flores
+
 Vinicius Bittencourt
+
 Felipe Rabuske
