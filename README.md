@@ -1,7 +1,7 @@
 Concentration
 -------
 
-A implementation of card game Concentration, using Ruby and Rubygame.
+An implementation of card game Concentration, using Ruby and Rubygame.
 
 Created as an assignment for a Programming Paradigms class.
 
